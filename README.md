@@ -11,6 +11,10 @@ This application demonstrates a lightweight version of Google Calendar, focusing
 - Delete events
 - Persist events in the user's browser using local storage
 
+## Live Demo
+
+Check out the live version of the app: [Calendar](https://calendar-three-pearl.vercel.app/)
+
 ## Tech Stack
 
 - React
